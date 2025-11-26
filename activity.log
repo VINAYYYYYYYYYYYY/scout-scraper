@@ -38,3 +38,4 @@
 2025-11-20 22:26:07 - feat: add data visualization layer
 2025-11-20 11:53:07 - feat: implement core logic
 2025-11-26 19:05:07 - feat: integrate logging and error handling
+2025-11-26 19:38:07 - fix: resolve dependency conflicts
