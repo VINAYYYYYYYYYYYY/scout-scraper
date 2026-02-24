@@ -104,3 +104,4 @@
 2026-02-21 11:20:07 - chore: update requirements.txt
 2026-02-21 13:42:07 - test: add unit tests for model validation
 2026-02-24 17:58:07 - feat: implement core logic
+2026-02-24 21:55:07 - docs: document API endpoints
