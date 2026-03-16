@@ -1,0 +1,1 @@
+name: Scraper CI\non: [push]\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n    - uses: actions/checkout@v3\n    - name: Set up Python\n      uses: actions/setup-python@v4\n      with:\n        python-version: '3.9'\n    - name: Install dependencies\n      run: pip install -r requirements.txt\n    - name: Run tests\n      run: pytest
